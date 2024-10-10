@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(255, 168, 168);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.scale {
+    font-size: 24px;
+}
+
+#element {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#element2 {
+    background-color: rgb(0, 255, 17);
+    font-weight: bold;
+}
